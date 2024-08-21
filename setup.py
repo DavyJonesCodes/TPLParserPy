@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='tpl-parser',
-    version='1.0.0',
+    version='1.0.1',
     author='Dev Jones',
     author_email='devjonescodes@gmail.com',
     description='A Python package to parse Photoshop TPL files and extract data into JSON format.',
