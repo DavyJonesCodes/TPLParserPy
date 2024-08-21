@@ -21,7 +21,7 @@ Welcome to **TPLParserPy**! 🛠️ This Python package is designed to help you 
 
 ## 🚀 Installation
 
-You can easily install TPLParserPy via pip:
+You can easily install TPLParserPy via pip from [PyPI](https://pypi.org/project/tpl-parser/):
 
 ```bash
 pip install tpl-parser
