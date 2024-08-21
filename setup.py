@@ -16,7 +16,6 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: Free for non-commercial use',
-        'License :: Commercial license required for commercial use',
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
